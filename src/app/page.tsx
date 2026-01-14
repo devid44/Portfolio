@@ -34,7 +34,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">
-              I{"'"}m <span className="text-gray-900 dark:text-white font-semibold underline decoration-blue-500 underline-offset-4">David Cirstea</span>. 
+              I&apos;m <span className="text-gray-900 dark:text-white font-semibold underline decoration-blue-500 underline-offset-4">David Cirstea</span>. 
               A 20-year-old Full-Stack Developer with a relentless focus on the frontend. I bridge the gap between technical precision and refined design—even if it requires staying up until the early hours to perfect every detail.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-8">
@@ -48,7 +48,7 @@ export default function Home() {
                 href="#contact"
                 className="px-8 py-4 bg-transparent border border-gray-200 dark:border-gray-800 rounded-full font-bold hover:bg-gray-50 dark:hover:bg-gray-900 transition-all"
               >
-                Let{"'"}s Talk
+                Let&apos;s Talk
               </a>
             </div>
           </div>
@@ -62,7 +62,7 @@ export default function Home() {
             <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">
               Currently pursuing my studies, I am a developer who values having full control over the digital stack. 
               I specialize in combining sophisticated AI implementations with pixel-perfect user interfaces, 
-              driven by a commitment to high-quality code and a perfectionist{"'"}s eye for detail.
+              driven by a commitment to high-quality code and a perfectionist&apos;s eye for detail.
             </p>
           </div>
         </section>
@@ -128,7 +128,7 @@ export default function Home() {
           <div className="max-w-2xl mx-auto text-center space-y-12">
             <div className="space-y-4">
               <h2 className="text-3xl md:text-5xl font-bold">Ready to start <br />something big?</h2>
-              <p className="text-gray-400 text-lg">Send me a message and I{"'"}ll get back to you within 24 hours.</p>
+              <p className="text-gray-400 text-lg">Send me a message and I&apos;ll get back to you within 24 hours.</p>
             </div>
             
             <form className="grid gap-4 text-left">
@@ -165,7 +165,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-gray-500 text-sm italic">© 2026 David Cirstea. Handcrafted in Next.js.</p>
           <div className="flex gap-8 text-sm font-bold uppercase tracking-widest">
-            <a href="#" className="hover:text-blue-600 transition-colors">GitHub</a>
+            <a href="" className="hover:text-blue-600 transition-colors">GitHub</a>
             <a href="#" className="hover:text-blue-600 transition-colors">Twitter</a>
             <a href="#" className="hover:text-blue-600 transition-colors">LinkedIn</a>
           </div>
