@@ -48,7 +48,7 @@ export default function Home() {
                 href="#contact"
                 className="px-8 py-4 bg-transparent border border-gray-200 dark:border-gray-800 rounded-full font-bold hover:bg-gray-50 dark:hover:bg-gray-900 transition-all"
               >
-                Let's Talk
+                Let&apos;s Talk
               </a>
             </div>
           </div>
@@ -128,7 +128,7 @@ export default function Home() {
           <div className="max-w-2xl mx-auto text-center space-y-12">
             <div className="space-y-4">
               <h2 className="text-3xl md:text-5xl font-bold">Ready to start <br />something big?</h2>
-              <p className="text-gray-400 text-lg">Send me a message and I'll get back to you within 24 hours.</p>
+              <p className="text-gray-400 text-lg">Send me a message and I&apos;ll get back to you within 24 hours.</p>
             </div>
             
             <form className="grid gap-4 text-left">
